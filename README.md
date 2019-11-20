@@ -5,7 +5,7 @@
 Topics:
 - Variables
 - Console Input/Output
-- Loops (´´´for´´´)
+- Loops (```for```)
 - Static methods
 
 Date of Completion: 02/12/2018
